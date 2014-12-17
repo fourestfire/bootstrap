@@ -3,3 +3,36 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+
+.container {
+color:black;
+}
+
+
+.jumbotron {
+  background-image:url('tailor.jpg');
+  }
+
+.jumbotron p {
+ color:white;
+}
+
+.jumbotron h1 {
+ color:white;
+}
+
+
+
+
+
+.nav a {
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
